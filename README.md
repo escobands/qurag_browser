@@ -11,13 +11,9 @@ Head to the Releases section to get your copy.
 - **Legacy support**: Run old IE websites with the LSR releases. They shouldn't work well with modern sites. They could also potentially throw script errors.
 
 ## **Versions**
-|-----------------------------------------------------------------------------------|
-| Version         | Engine   | Status    | Notes                                    |
-|-----------------------------------------------------------------------------------|
-| **Qurag 3.2**   | WebView2 | Stable    | Recommended for now.                     |
-| **Qurag 1.1**   | WebView2 | Fatal     | Does not launch because of missing DLLs. |
-| **Qurag 1 LSR** | IE11     | Legacy    | No DLLs needed. **This may be insecure!**|
-|-----------------------------------------------------------------------------------|
+**Qurag 3.2** - uses WebView2, it's a stable release. Recommended for now.
+**Qurag 1.1** - uses WebView2, it's a fatal release. Does not launch because of missing DLLs.
+**Qurag 1 LSR** - uses IE11, it's a legacy release. No DLLs needed. **This may be insecure!**
 
 ## **How to use it**
 **Qurag WebView2 Releases**
