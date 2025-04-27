@@ -30,10 +30,10 @@ No need to download anything more.
 ## **FAQ**
 **Q: Why did you make this?**
 A: I was bored of the modern look of today's browsers, so I decided to make my own.
----
+
 **Q: What is Qurag 1.1, and why does it exist?**
 A: An experiment to port WebView2 into Qurag.
----
+
 **Q: Is WebView2 required for Qurag 3.2?**
 A: You don't install the WebView2 runtime, the .zip contains all the necessary files.
 
