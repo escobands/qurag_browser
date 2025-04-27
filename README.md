@@ -37,4 +37,16 @@ A: An experiment to port WebView2 into Qurag.
 **Q: Is WebView2 required for Qurag 3.2?**
 A: You don't install the WebView2 runtime, the .zip contains all the necessary files.
 
-Source code (.sln) coming with release 5!
+Where's the source code?
+My bad you open-source fans, you gotta wait longer. Nouveau drivers can wait.
+
+- Current versions (3.2 and older) are closed-source.
+- Source code should (remind me) be in Release 5
+- Why? You know it is May. I gotta make music. Shoutout YANG QIN
+
+What to do:
+
+- Wait for it. The world won't end.
+- Complain in the issues
+
+Good night.
