@@ -37,4 +37,8 @@ A: An experiment to port WebView2 into Qurag.
 **Q: Is WebView2 required for Qurag 3.2?**
 A: You don't install the WebView2 runtime, the .zip contains all the necessary files.
 
+**Important!**
+The development of Qurag is temporarily paused, predicted to resume in around June.
+
+
 No source code yet. Coming in release 5
