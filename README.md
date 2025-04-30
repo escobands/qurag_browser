@@ -35,15 +35,21 @@ Qurag 1.0 LSR - stara technologia IE11. Nie pobieraj jak chcesz odpalić YT.
 1. Łatwy sposób.
 
    1a. Pobierz .zip'a z Releases.
+   
    1b. Rozpakuj .zip i uruchom.
 
-2. Jak akurat coś wiesz o komputerach. Mam nadzieję (najlepszy sposób).
+3. Jak akurat coś wiesz o komputerach. Mam nadzieję (najlepszy sposób).
 
    2a. Pobierz VS2022 Community (za darmo)
+   
    2b. Pobierz z tym "aplikacje .NET" czy coś takiego w instalatorze.
+   
    2c. Pobierz kod źródłowy. (\pak{liczba, zalezy od wersji}_Qurag{wersja, np. 3.2}
+   
    2d. Otwórz .sln w VS.
+   
    2e. Kompiluj.
+   
    2f. Wow! Pokaż nauczycielowi z informatyki że to skodowałeś i nie zesraj się:))))))
 
 
