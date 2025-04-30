@@ -1,44 +1,50 @@
-# Qurag Browser
-*Lightweight, no telemetry. A browser with legacy support.*
-*Please do not listen to country music on this browser.*
-
-## **Downloads**
-Head to the Releases section to get your copy.
-
-## **Features**
-- **It actually respects privacy.**: No tracking, no ads, just you and the browser. Search on the duck to get the best experience.
-- **Lightweight**: Minimal CPU/RAM usage.
-- **Legacy support**: Run old IE websites with the LSR releases. They shouldn't work well with modern sites. They could also potentially throw script errors.
-
-## **Versions**
-- **Qurag 3.2** - uses WebView2, it's a stable release. Recommended for now.
-- **Qurag 1.1** - uses WebView2, it's a fatal release. Does not launch because of missing DLLs.
-- **Qurag 1 LSR** - uses IE11, it's a legacy release. No DLLs needed. **This may be insecure!**
-
-## **How to use it**
-**Qurag WebView2 Releases**
-  - Download the .zip file
-  - Extract it
-  - Run Qurag_Browser.exe
-These releases don't require WebView2 runtime, already bundled.
-
-**Qurag LSR Releases**
-  - Download the .exe
-  - Just run it
-No need to download anything more.
-
-## **FAQ**
-**Q: Why did you make this?**
-A: I was bored of the modern look of today's browsers, so I decided to make my own.
-
-**Q: What is Qurag 1.1, and why does it exist?**
-A: An experiment to port WebView2 into Qurag.
-
-**Q: Is WebView2 required for Qurag 3.2?**
-A: You don't install the WebView2 runtime, the .zip contains all the necessary files.
-
-**Important!**
-The development of Qurag is temporarily paused, predicted to resume in around June.
+# Qurag Browser (przęglądarka Qurag)
+*Polska przeglądarka bez niepotrzebnego gówna.*
+*Nie słuchaj muzyki country na tej przęglądarce, proszę.*
 
 
-No source code yet. Coming in release 5
+# Co to jest?
+Qurag to jest przeglądarka zrobiona przez jednego dewelopera.
+Napisana jest w C# (WindowsForms), a ma silnik na bazie WebView2.
+Brak szitu od jakiegoś Jajkrosoftu, poprostu działa.
+(Dobra, baza to WebView2 czyli trochę Edge.)
+
+
+# Co przeglądarka zawiera?
+  - Prywatność: Nie ma żadnej telemetrii, i nie powinno być. Przeglądarka jest zbudowana z myślą o przywatnością.
+  - Szybkość: Przeglądarka powinna być szybka. Jak nie, to popraw sobie.
+  - Interfejs klasyczny: Nie ma jakiś pierdół, tylko strona, pasek na URLy i przycisk "Visit"
+  - Kod źródłowy: Kod źródłowy jest łatwy do edycji, ściągnij i zkompiluj. Brawa, teraz zmień czcionkę w Wordzie!
+
+
+
+# Wymagania na przeglądarkę
+  - .NET Framework 4.7 lub lepszy
+  - Windows 10 lub lepiej (8.1 też zadziała, 7 może pójdzie.)
+  - Intel Core i3-2300M lub lepszy, lub gorszy. Sam nie wiem.
+  - Ile RAMu się wciśnie.
+
+
+# Jaką wersję wybrać?
+Qurag 3.2 - najlepsza wersja teraz.
+Qurag 1.1 - nie działa.
+Qurag 1.0 LSR - stara technologia IE11. Nie pobieraj jak chcesz odpalić YT.
+
+
+# Jak odpalić przeglądarkę
+1. Łatwy sposób.
+
+   1a. Pobierz .zip'a z Releases.
+   1b. Rozpakuj .zip i uruchom.
+
+2. Jak akurat coś wiesz o komputerach. Mam nadzieję (najlepszy sposób).
+
+   2a. Pobierz VS2022 Community (za darmo)
+   2b. Pobierz z tym "aplikacje .NET" czy coś takiego w instalatorze.
+   2c. Pobierz kod źródłowy. (\pak{liczba, zalezy od wersji}_Qurag{wersja, np. 3.2}
+   2d. Otwórz .sln w VS.
+   2e. Kompiluj.
+   2f. Wow! Pokaż nauczycielowi z informatyki że to skodowałeś i nie zesraj się:))))))
+
+
+Zrobione z pasją - Franek
