@@ -27,7 +27,9 @@ Brak szitu od jakiegoś Jajkrosoftu, poprostu działa.
 
 # Jaką wersję wybrać?
 Qurag 3.2 - najlepsza wersja teraz.
+
 Qurag 1.1 - nie działa.
+
 Qurag 1.0 LSR - stara technologia IE11. Nie pobieraj jak chcesz odpalić YT.
 
 
