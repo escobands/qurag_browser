@@ -13,7 +13,7 @@ Brak szitu od jakiegoś Jajkrosoftu, poprostu działa.
 # Co przeglądarka zawiera?
   - Prywatność: Nie ma żadnej telemetrii, i nie powinno być. Przeglądarka jest zbudowana z myślą o przywatnością.
   - Szybkość: Przeglądarka powinna być szybka. Jak nie, to popraw sobie.
-  - Interfejs klasyczny: Nie ma jakiś pierdół, tylko strona, pasek na URLy i przycisk "Visit"
+  - Interfejs klasyczny: Nie ma jakiś pierdół, tylko strona, pasek na URLy i przyciski "Visit" czy Back/Fwd.
   - Kod źródłowy: Kod źródłowy jest łatwy do edycji, ściągnij i zkompiluj. Brawa, teraz zmień czcionkę w Wordzie!
 
 
@@ -26,6 +26,8 @@ Brak szitu od jakiegoś Jajkrosoftu, poprostu działa.
 
 
 # Jaką wersję wybrać?
+Qurag 5.0 - najnowsza wersja, nie aż tak dobra jak 3.2 ale ma przyciski i moim zdaniem lepszy interfejs.
+
 Qurag 3.2 - najlepsza wersja teraz.
 
 Qurag 1.1 - nie działa.
